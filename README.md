@@ -49,4 +49,4 @@ Microsoft Bing Maps (for geographical insights)
 Data modeling and DAX for calculated metrics
 
 ### Screenshots
-Show whats the Dashboard Look like- 
+Show whats the Dashboard Look like- (https://github.com/AnuradhaByahut/Adidas-sales-Analysis/blob/main/Adidas%20Sales%20Dashboard.png)
