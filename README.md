@@ -48,3 +48,5 @@ Power BI Desktop
 Microsoft Bing Maps (for geographical insights)
 Data modeling and DAX for calculated metrics
 
+### Screenshots
+Show whats the Dashboard Look like- 
